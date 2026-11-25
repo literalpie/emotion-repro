@@ -1,0 +1,13 @@
+@swc/plugin-emotion@14.8.0 @swc/core@1.15.0 cssPropOptimization=false
+/** @jsxImportSource @emotion/react */ import { jsx as _jsx } from "@emotion/react/jsx-runtime";
+import { css } from '@emotion/react';
+void css;
+export function Inline() {
+    return /*#__PURE__*/ _jsx("div", {
+        css: /*#__PURE__*/ css({
+            color: 'blue'
+        }, "label:Inline", "/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGVzdC50c3giLCJzb3VyY2VzIjpbInRlc3QudHN4Il0sInNvdXJjZXNDb250ZW50IjpbIi8qKiBAanN4SW1wb3J0U291cmNlIEBlbW90aW9uL3JlYWN0ICovXG5pbXBvcnQgeyBjc3MgfSBmcm9tICdAZW1vdGlvbi9yZWFjdCc7XG52b2lkIGNzcztcbmV4cG9ydCBmdW5jdGlvbiBJbmxpbmUoKSB7XG4gIHJldHVybiA8ZGl2IGNzcz17eyBjb2xvcjogJ2JsdWUnIH19PklubGluZTwvZGl2Pjtcbn0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBSW1CIn0= */"),
+        children: "Inline"
+    });
+}
+

@@ -1,0 +1,7 @@
+{
+  "name": "emotion-repro",
+  "private": true,
+  "scripts": {
+    "start": "node run.js"
+  }
+}

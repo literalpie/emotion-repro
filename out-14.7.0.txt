@@ -1,0 +1,13 @@
+@swc/plugin-emotion@14.7.0 @swc/core@1.15.0 cssPropOptimization=false
+/** @jsxImportSource @emotion/react */ import { jsx as _jsx } from "@emotion/react/jsx-runtime";
+import { css } from '@emotion/react';
+void css;
+export function Inline() {
+    return /*#__PURE__*/ _jsx("div", {
+        css: {
+            color: 'blue'
+        },
+        children: "Inline"
+    });
+}
+

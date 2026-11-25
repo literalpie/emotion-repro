@@ -1,0 +1,17 @@
+{
+  "name": "swc-14.7.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@swc/core": "^1.15.0",
+    "@swc/plugin-emotion": "^14.7.0"
+  }
+}
